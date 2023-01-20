@@ -37,3 +37,7 @@ https://github.com/renzocabarios/express-basic-auth
 ### React Redux Setup
 
 https://github.com/renzocabarios/react-redux-setup
+
+### Simple RTK Query
+
+https://github.com/renzocabarios/simple-rtk-query
