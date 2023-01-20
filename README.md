@@ -33,3 +33,7 @@ https://github.com/renzocabarios/react-ts-form
 ### Express Basic Auth
 
 https://github.com/renzocabarios/express-basic-auth
+
+### React Redux Setup
+
+https://github.com/renzocabarios/react-redux-setup
