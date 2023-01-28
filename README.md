@@ -48,3 +48,6 @@ https://github.com/Recolts/Hamburger-button-menu
 
 ### Simple Navbar
 https://github.com/Recolts/simple-navbar
+
+### Express Mongoose Discriminator
+https://github.com/renzocabarios/express-mongoose-discriminator
