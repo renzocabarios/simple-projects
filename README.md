@@ -51,3 +51,9 @@ https://github.com/Recolts/simple-navbar
 
 ### Express Mongoose Discriminator
 https://github.com/renzocabarios/express-mongoose-discriminator
+
+### Simple Sidebar
+https://github.com/Recolts/Sidebar
+
+### Simple Table
+https://github.com/Recolts/Table
